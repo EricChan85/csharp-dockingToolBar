@@ -1,0 +1,12 @@
+F:\project201701\CSharp\DockingToolbar\DockingToolbar\bin\Debug\DockingToolbar.exe.config
+F:\project201701\CSharp\DockingToolbar\DockingToolbar\bin\Debug\DockingToolbar.exe
+F:\project201701\CSharp\DockingToolbar\DockingToolbar\bin\Debug\DockingToolbar.pdb
+F:\project201701\CSharp\DockingToolbar\DockingToolbar\obj\Debug\DockingToolbar.csprojResolveAssemblyReference.cache
+F:\project201701\CSharp\DockingToolbar\DockingToolbar\obj\Debug\DockingToolbar.Form1.resources
+F:\project201701\CSharp\DockingToolbar\DockingToolbar\obj\Debug\DockingToolbar.Properties.Resources.resources
+F:\project201701\CSharp\DockingToolbar\DockingToolbar\obj\Debug\DockingToolbar.csproj.GenerateResource.Cache
+F:\project201701\CSharp\DockingToolbar\DockingToolbar\obj\Debug\DockingToolbar.exe
+F:\project201701\CSharp\DockingToolbar\DockingToolbar\obj\Debug\DockingToolbar.pdb
+F:\project201701\CSharp\DockingToolbar\DockingToolbar\bin\Debug\Svg.dll
+F:\project201701\CSharp\DockingToolbar\DockingToolbar\bin\Debug\Svg.pdb
+F:\project201701\CSharp\DockingToolbar\DockingToolbar\bin\Debug\Svg.xml
